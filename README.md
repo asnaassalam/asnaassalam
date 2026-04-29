@@ -4,24 +4,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ff69b4&center=true&vCenter=true&width=650&lines=Backend+Developer;Aspiring+AI+Engineer;Curious+Problem+Solver;Building+Real+World+Solutions)](https://git.io/typing-svg)
 
-## 💗 About Me
+## 👩🏻‍💻 About Me
 
-I'm a Software Engineering undergraduate from Sri Lanka, currently figuring out how far I can push what I know. Most of my work lives on the backend, building systems that actually do something useful, and lately I've been self-teaching machine learning on the side because I want to understand where software and intelligence meet. When I'm not building, I'm on LeetCode working through DSA problems to keep my problem-solving sharp. I'm always learning, always iterating, and if there's a project where I can contribute and add value, I'm open to it. Feel free to reach out. 
+I'm a Software Engineering undergraduate from Sri Lanka, currently figuring out how far I can push what I know. Most of my work lives on the backend, building systems that actually do something useful, and lately I've been self-teaching machine learning on the side because I want to understand where software and intelligence meet. When I'm not building, I'm on LeetCode working through DSA problems to keep my problem-solving sharp. I'm always learning, and I'm open to contributing wherever I can add value.
 
 <br>
 
-## 🌷 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech | Timeline |
 |---|---|---|---|
 | 🍽️ [Online Food Ordering System](https://github.com/asnaassalam/online-food-ordering-system) | An efficient restaurant platform for browsing menus, placing orders, tracking status, making reservations, and managing admin operations. | PHP, MySQL, Bootstrap, JavaScript | 2024 - 2025 |
-| 🔐 [Py Auth System](https://github.com/asnaassalam/py-auth-system) | A step-by-step evolving Python authentication system that is moving from CLI and GUI foundations toward REST API, JWT, and cloud deployment. | Python, tkinter, JSON, FastAPI, JWT | 2025 - Present |
+| 🔐 [Py Auth System](https://github.com/asnaassalam/py-auth-system) | A Python authentication system with CLI and GUI interfaces, being extended toward REST API, JWT, and cloud deployment. | Python, tkinter, JSON, FastAPI, JWT | 2025 - Present |
 | 🚨 [Disaster Management System](https://github.com/asnaassalam/disaster-management-system) | A Spring Boot disaster response platform for reporting incidents, tracking reports, and managing users and admin actions. | Java 17, Spring Boot, Thymeleaf, MySQL | 2025 |
 | 🌆 [ColomboNext](https://github.com/asnaassalam/colombo-next) | A smart city web app for Colombo with flood risk simulation, energy usage tracking, event planning, and civic feedback tools. | HTML, CSS, JavaScript, Chart.js | 2025 |
 
 <br>
 
-## 🌸 Currently Learning
+## 🌱 Currently Learning
 
 🤖 <b>Machine Learning</b> — working through core algorithms, NumPy, Pandas, scikit-learn, and PyTorch <br>
 🏗️ <b>System Design</b> — understanding scalable architectures and distributed systems
@@ -37,6 +37,8 @@ I'm a Software Engineering undergraduate from Sri Lanka, currently figuring out 
 ## 📊 GitHub Analytics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=asnaassalam&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnaassalam&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/asnaassalam)
 
 <br>
 
