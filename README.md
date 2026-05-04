@@ -15,9 +15,9 @@ I'm a Software Engineering undergraduate from Sri Lanka, currently figuring out 
 | Project | Description | Tech | Timeline |
 |---|---|---|---|
 | 🍽️ [Online Food Ordering System](https://github.com/asnaassalam/online-food-ordering-system) | An efficient restaurant platform for browsing menus, placing orders, tracking status, making reservations, and managing admin operations. | PHP, MySQL, Bootstrap, JavaScript | 2024 - 2025 |
-| 🔐 [Py Auth System](https://github.com/asnaassalam/py-auth-system) | A Python authentication system with CLI and GUI interfaces, being extended toward REST API, JWT, and cloud deployment. | Python, tkinter, JSON, FastAPI, JWT | 2025 - Present |
+| 🔍 [Log-Lens](https://github.com/asnaassalam/log-lens) | A high-performance log analysis dashboard with regex auto-parsing, interactive Plotly heatmaps, and smart error clustering for rapid system troubleshooting. | Python, Streamlit, Pandas, Plotly, Docker | 2026 |
 | 🚨 [Disaster Management System](https://github.com/asnaassalam/disaster-management-system) | A Spring Boot disaster response platform for reporting incidents, tracking reports, and managing users and admin actions. | Java 17, Spring Boot, Thymeleaf, MySQL | 2025 |
-| 🌆 [ColomboNext](https://github.com/asnaassalam/colombo-next) | A smart city web app for Colombo with flood risk simulation, energy usage tracking, event planning, and civic feedback tools. | HTML, CSS, JavaScript, Chart.js | 2025 |
+| 🔐 [Py Auth System](https://github.com/asnaassalam/py-auth-system) | A Python authentication system with CLI and GUI interfaces, being extended toward REST API, JWT, cloud deployment, and a full HTML/CSS/JS frontend. | Python, tkinter, FastAPI, JWT, HTML, CSS, JS | 2025 - Present |
 
 <br>
 
@@ -39,12 +39,6 @@ I'm a Software Engineering undergraduate from Sri Lanka, currently figuring out 
 [![GitHub Streak](https://streak-stats.demolab.com?user=asnaassalam&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asnaassalam&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/asnaassalam)
-
-<br>
-
-## 🧩 DSA — LeetCode Progress
-
-[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/asna_assalam?theme=radical&show=graph,recent&hide_rank=true)](https://leetcode.com/asna_assalam)
 
 <br>
 
